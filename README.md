@@ -11,11 +11,11 @@
 ## Steps
 - Import data to Pandas DataFrame
 - Explore and analyze unbalanced data
-  - Run PCA analysis (optional)
+  - (Optional) Run PCA analysis 
 - Preprocess data
   - Preprocess toxic data to binary: `toxicity, severe_toxicity, obscene, sexual_explicit, identity_attack, insult, threat`
   - Preprocess comment text data
-  - Illustrate WordCloud (optional)
+  - (Optional) Illustrate WordCloud
   - Create balanced dataset
 - Build Logistic Regression model
   - Split data to train and test
