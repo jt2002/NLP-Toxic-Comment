@@ -21,7 +21,7 @@
   - Split data to train and test
   - Add stopwords
   - Add tokenizing, TF-IDF
-- Evaluate F1 scores of these ML models
+- Compare F1 scores of these ML models
   - Logistic Regression
   - KNN
   - SVM
