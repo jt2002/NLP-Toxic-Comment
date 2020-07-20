@@ -2,7 +2,7 @@
 [Kaggle Jigsaw Unintended Bias in Toxicity Classification](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification)
 
 ## Goal
-- Create Toxic comment classifier
+- Create a toxic comment classifier
 
 ## Data
 - [Kaggle](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/data)
