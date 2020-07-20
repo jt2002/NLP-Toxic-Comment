@@ -15,7 +15,7 @@
 - Preprocess data
   - Preprocess toxic data to binary: `toxicity, severe_toxicity, obscene, sexual_explicit, identity_attack, insult, threat`
   - Preprocess comment text data
-  - (Optional) Illustrate WordCloud
+  - (Optional) Display WordCloud
   - Create balanced dataset
 - Build Logistic Regression model
   - Split data to train and test
